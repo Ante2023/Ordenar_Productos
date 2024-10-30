@@ -101,5 +101,5 @@ curl -X POST 'http://localhost:8080/sort-products' -H 'Content-Type: application
 
 ### Conclusión
 
-Con esta estructura, se obtiene una API RESTful básica en Flask que cumple con los requisitos de tu especificación. 
+Con esta estructura, se obtiene una API RESTful básica usando Flask y cumpliendo con los requisitos de la especificación de alineamiento. 
 
